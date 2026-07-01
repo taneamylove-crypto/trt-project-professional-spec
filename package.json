@@ -3,14 +3,30 @@
   "private": true,
   "version": "0.1.0",
   "description": "TRT professional specification and future monorepo.",
-  "packageManager": "pnpm@10.0.0",
+  "packageManager": "pnpm@11.7.0",
   "scripts": {
-    "check": "pnpm lint:structure",
-    "lint:structure": "node scripts/check-structure.mjs"
+    "build": "pnpm -r --if-present build",
+    "check": "pnpm lint:structure && pnpm format:check && pnpm lint && pnpm typecheck && pnpm test",
+    "dev": "pnpm --parallel --filter @trt/telegram-miniapp --filter @trt/webapp --filter @trt/backend dev",
+    "format": "prettier . --write",
+    "format:check": "prettier . --check",
+    "lint": "eslint .",
+    "lint:structure": "node scripts/check-structure.mjs",
+    "test": "pnpm -r --if-present test",
+    "typecheck": "pnpm -r --if-present typecheck"
   },
   "engines": {
     "node": ">=22.0.0",
     "pnpm": ">=10.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "@types/node": "^22.15.34",
+    "eslint": "^9.30.1",
+    "globals": "^16.2.0",
+    "prettier": "^3.6.2",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.35.1",
+    "vitest": "^3.2.4"
+  }
 }

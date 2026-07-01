@@ -3,3 +3,5 @@ packages:
   - "services/*"
   - "packages/*"
   - "contracts/*"
+allowBuilds:
+  esbuild: true

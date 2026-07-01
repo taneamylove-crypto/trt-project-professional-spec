@@ -46,7 +46,7 @@ See [docs/00_overview/TECH_STACK.md](docs/00_overview/TECH_STACK.md).
 Prerequisites:
 
 - Node.js 22 LTS or newer
-- pnpm 10 or newer
+- pnpm 11.7 or newer
 - Git
 
 Install dependencies after packages are added:
@@ -61,4 +61,10 @@ Run repository checks:
 pnpm check
 ```
 
-At this stage the checks validate repository structure only. Contract, app, backend, and SDK implementation commands will be added after their RFCs are approved.
+Build all packages:
+
+```bash
+pnpm build
+```
+
+At this stage the apps, backend, SDK, and contracts package are working shells. Business logic will be added only after the relevant RFCs are approved.
