@@ -1,9 +1,11 @@
 # TASK-0001: Repository Setup
 
 ## Goal
+
 Create a monorepo structure for TRT.
 
 ## Expected folders
+
 - contracts/ton
 - apps/telegram-miniapp
 - apps/webapp
@@ -15,6 +17,7 @@ Create a monorepo structure for TRT.
 - audits
 
 ## Deliverables
+
 - package/tooling plan
 - README
 - development setup

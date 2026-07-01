@@ -1,6 +1,7 @@
 # Operations
 
 ## Official live draw operations
+
 - pre-draw announcement
 - entry lock
 - stream start
@@ -11,6 +12,7 @@
 - post-draw report
 
 ## Platforms
+
 - Telegram Live
 - YouTube Live
 - TikTok Live

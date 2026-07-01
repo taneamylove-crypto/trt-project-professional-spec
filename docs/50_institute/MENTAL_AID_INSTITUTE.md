@@ -3,6 +3,7 @@
 Mission: global psychological support, education and research.
 
 ## Clear separation
+
 - Evidence-based psychological aid
 - Crisis support routing
 - Education

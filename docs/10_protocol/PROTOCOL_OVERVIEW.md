@@ -3,6 +3,7 @@
 The Draw Protocol is the core technology product.
 
 ## Main components
+
 - Lottery Factory
 - Lottery Contract
 - Treasury Contract
@@ -12,6 +13,7 @@ The Draw Protocol is the core technology product.
 - SDK / API
 
 ## Basic flow
+
 1. Creator deploys a draw/lottery contract.
 2. Users receive or buy entries.
 3. Entries are fixed before draw.

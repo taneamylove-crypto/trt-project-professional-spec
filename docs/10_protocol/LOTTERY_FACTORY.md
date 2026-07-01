@@ -3,6 +3,7 @@
 The Factory deploys new draw/lottery contracts.
 
 ## Parameters
+
 - creator address
 - entry currency: TON / Jetton / project token
 - entry price or free-entry mode
@@ -14,6 +15,7 @@ The Factory deploys new draw/lottery contracts.
 - randomness mode
 
 ## Requirements
+
 - deterministic deployment where possible
 - event/log indexing for frontend
 - creator ownership and admin boundaries

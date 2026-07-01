@@ -3,6 +3,7 @@
 Primary user interface.
 
 ## Core MVP screens
+
 - Home / active draw
 - Connect wallet via TonConnect
 - Entry acquisition
@@ -14,4 +15,5 @@ Primary user interface.
 - Creator mode (later phase)
 
 ## Telegram-first principle
+
 The user should never need to understand blockchain details to participate safely.

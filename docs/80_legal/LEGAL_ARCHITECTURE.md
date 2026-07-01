@@ -3,6 +3,7 @@
 This repository does not provide legal advice.
 
 Before public launch, TRT requires jurisdiction-specific legal review for:
+
 - gambling / lottery regulation
 - crypto-asset regulation
 - consumer protection
@@ -12,4 +13,5 @@ Before public launch, TRT requires jurisdiction-specific legal review for:
 - tax treatment
 
 ## Important
+
 Using TON, Telegram, entries, staking or tokens does not automatically remove gambling-law risk.

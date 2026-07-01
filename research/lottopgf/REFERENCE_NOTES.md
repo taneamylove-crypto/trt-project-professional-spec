@@ -3,6 +3,7 @@
 LottoPGF / Lootery is used as an architectural reference, not as code to copy.
 
 Relevant ideas:
+
 - Factory-based deployment
 - Individual lottery contracts
 - Ticket/entry model
