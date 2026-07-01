@@ -1,0 +1,16 @@
+{
+  "name": "trt-project",
+  "private": true,
+  "version": "0.1.0",
+  "description": "TRT professional specification and future monorepo.",
+  "packageManager": "pnpm@10.0.0",
+  "scripts": {
+    "check": "pnpm lint:structure",
+    "lint:structure": "node scripts/check-structure.mjs"
+  },
+  "engines": {
+    "node": ">=22.0.0",
+    "pnpm": ">=10.0.0"
+  },
+  "devDependencies": {}
+}
