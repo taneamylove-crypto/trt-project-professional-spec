@@ -1,3 +1,3 @@
 # GitHub Workflows
 
-CI/CD will be added after the technical stack is selected.
+- `ci.yml` runs repository structure checks on `main`, `develop`, and pull requests.
