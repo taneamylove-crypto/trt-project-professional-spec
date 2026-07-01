@@ -1,0 +1,12 @@
+{
+  "name": "@trt/contracts-ton",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/rfc-gate.mjs build",
+    "test": "node scripts/rfc-gate.mjs test",
+    "typecheck": "node scripts/rfc-gate.mjs typecheck"
+  },
+  "devDependencies": {}
+}
