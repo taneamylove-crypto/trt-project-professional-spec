@@ -9,6 +9,8 @@ Status: In progress, implementation blocked.
 - TON tooling decision recorded.
 - Contract MVP scope drafted.
 - Contract MVP acceptance matrix drafted.
+- Oracle payload policy drafted.
+- Result derivation policy drafted.
 - Contract package remains RFC-gated.
 - No business logic implemented.
 
@@ -25,8 +27,8 @@ Implementation remains blocked until:
 
 ## Next preparation work
 
-- refine exact serialization for oracle payload;
-- decide the final winner/result derivation algorithm before implementation;
+- refine exact binary serialization for oracle payload;
+- decide the final winner/result derivation algorithm before implementation approval;
 - decide whether Acton can be adopted cleanly inside the monorepo or whether Blueprint is the practical fallback.
 
 ## Explicit non-goals

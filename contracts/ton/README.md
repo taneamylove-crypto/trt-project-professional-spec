@@ -16,6 +16,8 @@ See [MVP_SCOPE.md](MVP_SCOPE.md) for the first conservative contract MVP boundar
 
 See [MVP_ACCEPTANCE_MATRIX.md](MVP_ACCEPTANCE_MATRIX.md) for the first MVP acceptance criteria.
 
+See [ORACLE_PAYLOAD.md](ORACLE_PAYLOAD.md) and [RESULT_DERIVATION.md](RESULT_DERIVATION.md) for randomness/result design notes.
+
 ## Commands
 
 Current commands are RFC gates and intentionally do not compile contracts yet:

@@ -99,6 +99,8 @@ Result derivation must be reproducible from:
 
 The exact winner selection algorithm remains blocked until approval.
 
+See [RESULT_DERIVATION.md](RESULT_DERIVATION.md) for the draft result derivation policy.
+
 ## Randomness MVP
 
 ### Oracle payload fields
@@ -117,6 +119,8 @@ The first oracle payload should be specified around:
 - signature or proof bytes.
 
 Exact serialization must be defined before implementation.
+
+See [ORACLE_PAYLOAD.md](ORACLE_PAYLOAD.md) for the draft payload serialization policy.
 
 ### Submission rules
 
