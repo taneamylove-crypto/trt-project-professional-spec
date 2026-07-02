@@ -6,7 +6,7 @@ Status: Draft recommendation. Final choices require RFC approval before implemen
 
 - Primary language: Tact.
 - Low-level language: FunC only for parts where Tact is not sufficient.
-- Tooling: Blueprint, Sandbox, `@ton/core`, `@ton/ton`.
+- Tooling: evaluate Acton first for new contract work; use Blueprint as fallback if it better fits the monorepo workflow. Sandbox, `@ton/core`, and `@ton/ton` remain expected supporting tools.
 - Testing: TypeScript contract tests through Sandbox.
 - Mainnet rule: no deployment before tests, threat model, internal review, and independent audit.
 

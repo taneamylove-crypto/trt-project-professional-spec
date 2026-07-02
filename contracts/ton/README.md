@@ -8,7 +8,9 @@ No contract business logic should be added until the corresponding RFC is approv
 
 - Tact as the default contract language.
 - FunC only where Tact is not sufficient.
-- Blueprint and Sandbox for local build/test workflows.
+- Acton evaluation first, Blueprint fallback, and Sandbox for local build/test workflows.
+
+See [TOOLING_DECISION.md](TOOLING_DECISION.md).
 
 ## Commands
 

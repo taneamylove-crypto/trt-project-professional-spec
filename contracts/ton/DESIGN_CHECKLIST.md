@@ -11,11 +11,11 @@ This checklist must be completed before implementing TON draw contracts.
 
 ## Tooling decision
 
-- Contract language selected.
-- Tact version selected.
-- Blueprint setup selected.
-- Sandbox test approach selected.
-- Generated wrappers strategy selected.
+- Contract language selected: Tact by default.
+- Fallback language selected: FunC only where justified.
+- Tooling path selected: evaluate Acton first, Blueprint as fallback.
+- Sandbox test approach selected: required for local tests.
+- Generated wrappers strategy selected: TypeScript wrappers around `@ton/core`.
 
 ## Factory design
 
