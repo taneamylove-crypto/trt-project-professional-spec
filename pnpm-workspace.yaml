@@ -5,3 +5,4 @@ packages:
   - "contracts/*"
 allowBuilds:
   esbuild: true
+storeDir: .cache/pnpm-store
