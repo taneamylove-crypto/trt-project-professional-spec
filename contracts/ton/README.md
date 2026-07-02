@@ -12,6 +12,8 @@ No contract business logic should be added until the corresponding RFC is approv
 
 See [TOOLING_DECISION.md](TOOLING_DECISION.md).
 
+See [MVP_SCOPE.md](MVP_SCOPE.md) for the first conservative contract MVP boundary.
+
 ## Commands
 
 Current commands are RFC gates and intentionally do not compile contracts yet:

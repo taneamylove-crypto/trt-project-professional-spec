@@ -7,6 +7,7 @@ Status: In progress, implementation blocked.
 - Contract design checklist created.
 - Contract test matrix created.
 - TON tooling decision recorded.
+- Contract MVP scope drafted.
 - Contract package remains RFC-gated.
 - No business logic implemented.
 
@@ -23,9 +24,6 @@ Implementation remains blocked until:
 
 ## Next preparation work
 
-- define factory MVP parameter subset;
-- define draw contract MVP state subset;
-- define oracle randomness payload fields;
 - map each MVP item to required tests;
 - decide whether Acton can be adopted cleanly inside the monorepo or whether Blueprint is the practical fallback.
 
