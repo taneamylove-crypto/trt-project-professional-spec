@@ -75,6 +75,8 @@ Exit criteria:
 
 Status: Planned
 
+Plan: [SPRINT_4_FACTORY_PLAN.md](SPRINT_4_FACTORY_PLAN.md)
+
 Scope:
 
 - implement only approved factory scope;

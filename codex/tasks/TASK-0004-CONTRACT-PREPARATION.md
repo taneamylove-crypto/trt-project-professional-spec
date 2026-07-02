@@ -31,4 +31,4 @@ Prepare TON contract implementation work without writing business logic.
 
 ## Status
 
-In progress.
+Draft preparation complete. Implementation remains blocked until RFC approval.
