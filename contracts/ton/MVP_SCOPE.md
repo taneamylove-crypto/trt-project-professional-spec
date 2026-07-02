@@ -134,6 +134,8 @@ The draw contract must:
 
 Every MVP feature above must map to a test in `TEST_MATRIX.md` before implementation starts.
 
+See [MVP_ACCEPTANCE_MATRIX.md](MVP_ACCEPTANCE_MATRIX.md) for the explicit scope-to-test mapping.
+
 Minimum required test groups:
 
 - factory parameter acceptance;

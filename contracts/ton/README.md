@@ -14,6 +14,8 @@ See [TOOLING_DECISION.md](TOOLING_DECISION.md).
 
 See [MVP_SCOPE.md](MVP_SCOPE.md) for the first conservative contract MVP boundary.
 
+See [MVP_ACCEPTANCE_MATRIX.md](MVP_ACCEPTANCE_MATRIX.md) for the first MVP acceptance criteria.
+
 ## Commands
 
 Current commands are RFC gates and intentionally do not compile contracts yet:

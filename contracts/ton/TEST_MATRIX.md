@@ -2,6 +2,8 @@
 
 This matrix describes required tests before contract business logic can be accepted.
 
+See [MVP_ACCEPTANCE_MATRIX.md](MVP_ACCEPTANCE_MATRIX.md) for the narrowed first-MVP acceptance criteria.
+
 ## Factory tests
 
 ### Creation success
@@ -16,7 +18,7 @@ This matrix describes required tests before contract business logic can be accep
 - rejects invalid creator address;
 - rejects invalid time ordering;
 - rejects unsupported payment asset;
-- rejects fee configuration above cap;
+- rejects fee configuration above cap when fee scope is approved;
 - rejects missing randomness configuration;
 - rejects metadata format outside approved scope;
 - rejects values that exceed storage/gas assumptions.
@@ -40,13 +42,13 @@ This matrix describes required tests before contract business logic can be accep
 - accepts valid randomness once;
 - rejects duplicate randomness;
 - finalizes only after valid randomness;
-- rejects mutation after closed/cancelled states.
+- rejects mutation after closed state.
 
 ### Entries
 
 - accepts a valid entry during open state;
-- rejects invalid payment amount;
-- rejects unsupported asset;
+- rejects paid-entry attempts while only free-entry mode is approved;
+- rejects unsupported asset when asset-based entries are approved;
 - rejects entries above participant limit;
 - rejects entries above maximum draw limit;
 - preserves locked entry accounting;

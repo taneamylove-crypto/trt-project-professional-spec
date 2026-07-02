@@ -17,6 +17,7 @@ Prepare TON contract implementation work without writing business logic.
 - `contracts/ton/TEST_MATRIX.md`
 - `contracts/ton/TOOLING_DECISION.md`
 - `contracts/ton/MVP_SCOPE.md`
+- `contracts/ton/MVP_ACCEPTANCE_MATRIX.md`
 - `docs/90_operations/SPRINT_3_STATUS.md`
 - clear list of tests required before contract MVP
 
