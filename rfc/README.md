@@ -4,7 +4,7 @@ Process: [RFC-PROCESS.md](RFC-PROCESS.md)
 
 - RFC-0001: Vision and Scope
 - RFC-0002: LottoPGF Reference Adaptation
-- RFC-0003: TON Draw Factory
+- RFC-0003: TON Draw Factory (Review)
 - RFC-0004: TON Draw Contract
 - RFC-0005: Randomness and Live Draw
 - RFC-0006: Telegram Mini App
