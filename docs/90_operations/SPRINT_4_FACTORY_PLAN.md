@@ -1,6 +1,6 @@
 # Sprint 4 Plan: TON Draw Factory MVP
 
-Status: Review preparation complete; implementation blocked until RFC-0003 approval.
+Status: Ready for implementation under approved RFC-0003 scope.
 
 ## Goal
 
@@ -10,10 +10,10 @@ The factory MVP must deploy or prepare independent draw contracts with conservat
 
 ## Required approvals
 
-Sprint 4 implementation may start only after:
+Sprint 4 implementation is open because:
 
-- RFC-0003 moves from Review to Approved;
-- RFC-0004 and RFC-0005 are at least reviewed for compatibility;
+- RFC-0003 is Approved for the Sprint 4 Factory MVP;
+- RFC-0004 and RFC-0005 were reviewed for compatibility only and remain unapproved for implementation;
 - `MVP_SCOPE.md` is accepted as the Sprint 4 implementation boundary;
 - `MVP_ACCEPTANCE_MATRIX.md` factory rows are accepted as required tests.
 
@@ -83,6 +83,8 @@ Implementation should begin with tests in this order:
 - no project token;
 - no charity automation;
 - no mainnet deployment.
+
+Any implementation outside these non-goals requires a separate approved RFC before code is written.
 
 ## Exit criteria
 

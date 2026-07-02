@@ -23,7 +23,7 @@ Exit criteria:
 
 ## Sprint 1: Foundation RFCs
 
-Status: Review started
+Status: Factory RFC approved
 
 Scope:
 
@@ -42,7 +42,7 @@ Status: Draft complete
 
 Scope:
 
-- RFC-0003 TON Draw Factory (Review);
+- RFC-0003 TON Draw Factory (Approved for Sprint 4 Factory MVP);
 - RFC-0004 TON Draw Contract;
 - RFC-0005 Randomness and Live Draw.
 
@@ -55,7 +55,7 @@ Exit criteria:
 
 ## Sprint 3: Contract Implementation Preparation
 
-Status: Review preparation complete; blocked until RFC-0003 approval
+Status: Ready for implementation
 
 Scope:
 

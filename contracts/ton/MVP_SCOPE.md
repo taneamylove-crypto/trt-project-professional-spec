@@ -1,8 +1,8 @@
 # TON Contract MVP Scope
 
-Status: Draft preparation. Implementation remains blocked until RFC approval.
+Status: Accepted as the Sprint 4 Factory MVP implementation boundary under approved RFC-0003.
 
-This document narrows the first contract MVP to a small, testable, testnet-only subset. It is intentionally conservative.
+This document narrows the first contract MVP to a small, testable, testnet-only subset. It is intentionally conservative. Only the Factory MVP section is approved for Sprint 4 implementation under RFC-0003.
 
 ## Factory MVP
 

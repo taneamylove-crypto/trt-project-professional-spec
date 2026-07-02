@@ -1,8 +1,8 @@
 # TON Contract MVP Acceptance Matrix
 
-Status: Draft preparation. No contract business logic is approved by this document.
+Status: Factory MVP acceptance rows accepted for Sprint 4 under approved RFC-0003.
 
-This matrix maps the first contract MVP scope to acceptance criteria and required tests.
+This matrix maps the first contract MVP scope to acceptance criteria and required tests. Only the Factory MVP acceptance section is approved for Sprint 4 implementation under RFC-0003.
 
 ## Factory MVP acceptance
 

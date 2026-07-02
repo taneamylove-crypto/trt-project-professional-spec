@@ -100,8 +100,8 @@ Emergency fixes may bypass the normal RFC timeline only when they reduce immedia
 As of this repository baseline:
 
 - RFC-0001 is Draft.
-- RFC-0003 is Review.
+- RFC-0003 is Approved for Sprint 4 Factory MVP.
 - RFC-0004 is Draft.
 - RFC-0005 is Draft.
 - RFC-0010 is Draft.
-- Contract implementation remains blocked.
+- Contract implementation is open only for the RFC-0003 Sprint 4 Factory MVP scope.

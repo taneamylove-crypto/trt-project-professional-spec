@@ -25,4 +25,4 @@ Prepare Sprint 4 factory MVP implementation plan without writing contract busine
 
 ## Status
 
-Review preparation complete. RFC-0003 is in Review; implementation remains blocked until RFC-0003 moves to Approved.
+Complete. RFC-0003 is Approved for the Sprint 4 Factory MVP; implementation may start only inside that scope.

@@ -4,7 +4,7 @@ This checklist must be completed before implementing TON draw contracts.
 
 ## RFC status
 
-- RFC-0003 TON Draw Factory reviewed.
+- RFC-0003 TON Draw Factory approved for Sprint 4 Factory MVP.
 - RFC-0004 TON Draw Contract reviewed.
 - RFC-0005 Randomness and Live Draw reviewed.
 - Implementation scope explicitly approved.
